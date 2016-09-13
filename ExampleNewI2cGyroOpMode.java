@@ -12,6 +12,7 @@ package org.firstinspires.ftc.teamcode;
  * using I2cDeviceSynch calls in the new FTC app beta.
  */
 
+//  Added comment for github testing
 @Autonomous(name = "Sensor: MRGyro", group = "Sensor")
 //@Disabled
 public class ExampleNewI2cGyroOpMode extends OpMode {
